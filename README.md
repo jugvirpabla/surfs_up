@@ -27,4 +27,4 @@ The rainfall amounts are as follows (average):
 ## Conclusion
 I have detemined, by onlying looking at these two months, June and Decemeber, for the last few years, the temperature and rainfall does not vary much, and is very closely related. The sales for the surf and ice cream shop should very consistant very month by looking at the climate data.
 
-But, for further analysis, I would like to go back at least 5 years, and look at EVERY month, to have more accurate numbers for the climate to help make a better informed decision about the surf shop. 
+But, for further analysis, I would like to go back at least 5 years, and look at EVERY month, to have more accurate numbers for the climate to help make a better informed decision about the surf shop. One final aspect I would want to look into is what is around the surf that we are trying open. Such as other surf or ice cream shops. if there are others around the shop, that will affect business and overall revenue. 
