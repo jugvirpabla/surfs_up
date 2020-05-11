@@ -25,6 +25,6 @@ The rainfall amounts are as follows (average) in inches:
   - December '15 > 0.16
   
 ## Conclusion
-I have determined, by only looking at these two months, June and December, for the last few years, the temperature and rainfall does not very much, and is very closely related. The sales for the surf and ice cream shop should very consistent very month by looking at the climate data.
+I have determined, by only looking at these two months, June and December, for the last few years, the temperature and rainfall does not very much, and is very closely related. The sales for the surf and ice cream shop should very consistent very month by looking at the climate data. Alos, the information about cloud coverage would be good to know as well. 
 
 But, for further analysis, I would like to go back at least 5 years, and look at EVERY month, to have more accurate numbers for the climate to help make a better-informed decision about the surf shop. One final aspect I would want to look into is what is around the surf that we are trying open. Such as other surf or ice cream shops. if there are others around the shop, that will affect business and overall revenue.
