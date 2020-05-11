@@ -12,7 +12,7 @@ I found that the temperatures are as follows (max, min, average) in Fahrenheit:
   - June '17 > 71, 83, 77.2
   - June '16 > 64, 81, 75.2
   - June '15 > 66, 81, 75
-  - December '17 > N/A (information was unenviable)
+  - December '17 > N/A (information was unavailable
   - December '16 > 60, 78, 71.1
   - December '15 > 65, 82, 73.4
   
@@ -20,7 +20,7 @@ The rainfall amounts are as follows (average) in inches:
   - June '17 > 0.12
   - June '16 > 0.21
   - June '15 > 0.12
-  - December '17 > N/A (information was unenviable)
+  - December '17 > N/A (information was unavailable)
   - December '16 > 0.2
   - December '15 > 0.16
   
